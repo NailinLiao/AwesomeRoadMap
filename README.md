@@ -1,6 +1,6 @@
 # awesome-road-map
 
-![](./docs/img/awesome-road-map.png)
+[//]: # (![]&#40;./docs/img/awesome-road-map.png&#41;)
 
 awesome road map
 
